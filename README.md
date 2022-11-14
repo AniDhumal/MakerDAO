@@ -12,7 +12,7 @@ This bot detects if the totalSupply on arbitrum and optimism exceeds the balance
 
 Describe each of the type of alerts fired by this agent
 
-- DAI SUPPlY OPT
+- DAI SUPPLY OPT
 
   - Fired every block to show total supply of DAI on Optimism
   - Severity is set to "low"
@@ -22,7 +22,7 @@ Describe each of the type of alerts fired by this agent
     - `blockHash` : Block hash of the current block
     - `totalSupplyOPT`: Total DAI on Optimism
 
-- DAI SUPPlY ARB
+- DAI SUPPLY ARB
 
   - Fired every block to show total supply of DAI on Arbitrum
   - Severity is set to "low"
